@@ -3,6 +3,14 @@
 
 An end-to-end e‑learning platform with course management, quizzes, certificates, enrollment and progress tracking, discussion forums, and a modern, responsive UI. The project is a monorepo with a React client and an Express/MongoDB server.
 
+## 📸 Screenshots
+
+![Home Screenshot](https://res.cloudinary.com/dupv4u12a/image/upload/v1758951696/Screenshot_from_2025-09-27_11-09-19_q0ep2o.png)
+
+![Course Screenshot](https://res.cloudinary.com/dupv4u12a/image/upload/v1758951624/Screenshot_from_2025-09-27_11-07-58_tnqaxs.png)
+
+---
+
 ## Table of Contents
 - **Overview**
 - **Features**
